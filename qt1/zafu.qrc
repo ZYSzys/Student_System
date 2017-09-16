@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zafu.jpg</file>
+        <file>ZAFU.jpeg</file>
+    </qresource>
+</RCC>
